@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yeetus Christ\\Desktop\\PersonalApp\\PersonalApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A93D29F-7CC6-481E-809E-DE2BC3E4F4CF}|WebApplication10\\WebApplication10.csproj|c:\\users\\yeetus christ\\desktop\\personalapp\\personalapp\\webapplication10\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A93D29F-7CC6-481E-809E-DE2BC3E4F4CF}|WebApplication10\\WebApplication10.csproj|solutionrelative:webapplication10\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A93D29F-7CC6-481E-809E-DE2BC3E4F4CF}|WebApplication10\\WebApplication10.csproj|c:\\users\\yeetus christ\\desktop\\personalapp\\personalapp\\webapplication10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A93D29F-7CC6-481E-809E-DE2BC3E4F4CF}|WebApplication10\\WebApplication10.csproj|solutionrelative:webapplication10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A93D29F-7CC6-481E-809E-DE2BC3E4F4CF}|WebApplication10\\WebApplication10.csproj|c:\\users\\yeetus christ\\desktop\\personalapp\\personalapp\\webapplication10\\clientapp\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9A93D29F-7CC6-481E-809E-DE2BC3E4F4CF}|WebApplication10\\WebApplication10.csproj|solutionrelative:webapplication10\\clientapp\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A93D29F-7CC6-481E-809E-DE2BC3E4F4CF}|WebApplication10\\WebApplication10.csproj|c:\\users\\yeetus christ\\desktop\\personalapp\\personalapp\\webapplication10\\clientapp\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A93D29F-7CC6-481E-809E-DE2BC3E4F4CF}|WebApplication10\\WebApplication10.csproj|solutionrelative:webapplication10\\clientapp\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:86:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImageController.cs",
+              "DocumentMoniker": "C:\\Users\\Yeetus Christ\\Desktop\\PersonalApp\\PersonalApp\\WebApplication10\\Controllers\\ImageController.cs",
+              "RelativeDocumentMoniker": "WebApplication10\\Controllers\\ImageController.cs",
+              "ToolTip": "C:\\Users\\Yeetus Christ\\Desktop\\PersonalApp\\PersonalApp\\WebApplication10\\Controllers\\ImageController.cs",
+              "RelativeToolTip": "WebApplication10\\Controllers\\ImageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T14:40:29.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yeetus Christ\\Desktop\\PersonalApp\\PersonalApp\\WebApplication10\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication10\\Program.cs",
+              "ToolTip": "C:\\Users\\Yeetus Christ\\Desktop\\PersonalApp\\PersonalApp\\WebApplication10\\Program.cs",
+              "RelativeToolTip": "WebApplication10\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T14:16:50.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\Yeetus Christ\\Desktop\\PersonalApp\\PersonalApp\\WebApplication10\\clientapp\\src\\App.js",
+              "RelativeDocumentMoniker": "WebApplication10\\clientapp\\src\\App.js",
+              "ToolTip": "C:\\Users\\Yeetus Christ\\Desktop\\PersonalApp\\PersonalApp\\WebApplication10\\clientapp\\src\\App.js",
+              "RelativeToolTip": "WebApplication10\\clientapp\\src\\App.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-06T09:27:00.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Yeetus Christ\\Desktop\\PersonalApp\\PersonalApp\\WebApplication10\\clientapp\\public\\index.html",
+              "RelativeDocumentMoniker": "WebApplication10\\clientapp\\public\\index.html",
+              "ToolTip": "C:\\Users\\Yeetus Christ\\Desktop\\PersonalApp\\PersonalApp\\WebApplication10\\clientapp\\public\\index.html",
+              "RelativeToolTip": "WebApplication10\\clientapp\\public\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-06T09:24:38.678Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
